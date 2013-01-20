@@ -1,0 +1,6 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  Exposes a scala interface to a set of libraries in directory containing jars
+</div>
